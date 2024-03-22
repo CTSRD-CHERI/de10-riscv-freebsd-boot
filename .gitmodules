@@ -1,0 +1,3 @@
+[submodule "jtagvpi_to_fmemdmi"]
+	path = jtagvpi_to_fmemdmi
+	url = https://github.com/CTSRD-CHERI/jtagvpi_to_fmemdmi.git
