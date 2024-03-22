@@ -1,3 +1,6 @@
 [submodule "jtagvpi_to_fmemdmi"]
 	path = jtagvpi_to_fmemdmi
 	url = https://github.com/CTSRD-CHERI/jtagvpi_to_fmemdmi.git
+[submodule "tinyemu-virtio"]
+	path = tinyemu-virtio
+	url = https://github.com/CTSRD-CHERI/tinyemu-virtio.git
