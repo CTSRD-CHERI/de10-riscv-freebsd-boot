@@ -4,3 +4,6 @@
 [submodule "tinyemu-virtio"]
 	path = tinyemu-virtio
 	url = https://github.com/CTSRD-CHERI/tinyemu-virtio.git
+[submodule "fmem"]
+	path = fmem
+	url = https://github.com/CTSRD-CHERI/fmem.git
